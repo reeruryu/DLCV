@@ -1,0 +1,7 @@
+train: /content/blackpink/images/train/ 
+val: /content/blackpink/images/train/
+
+# number of classes
+nc: 4
+# class names
+names: [ 'jennie', 'jisoo', 'rose', 'lisa' ]
